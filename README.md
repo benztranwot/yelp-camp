@@ -27,7 +27,7 @@ A massive fullstack web application act like a social media where users can shar
 - [Mapbox](https://www.mapbox.com/)
 - [Cloudinary](https://cloudinary.com/)
 - [EJS](https://ejs.co/)
-- [Bootstrap][https://getbootstrap.com/]
+- [Bootstrap](https://getbootstrap.com/)
 - [Mongoose](https://mongoosejs.com/)
 - [Joi](https://joi.dev/)
 - [Helmet](https://helmetjs.github.io/)
